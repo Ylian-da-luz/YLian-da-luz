@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱Atualmente estou aprendendo Python
+🌱 I’m currently learning Python
 
 
 ### Best techonologies
